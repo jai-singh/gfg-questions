@@ -1,0 +1,1 @@
+# Question link: https://practice.geeksforgeeks.org/problems/first-repeating-element4018/
