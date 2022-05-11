@@ -1,0 +1,1 @@
+# Question Link -> https://practice.geeksforgeeks.org/problems/divisible-by-73224/1/#
