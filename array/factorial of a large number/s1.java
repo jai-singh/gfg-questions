@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Collections;
+
 class Solution {
     static class Node {
         int data;
@@ -45,3 +48,13 @@ class Solution {
     }
 }
 
+public class s1 {
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        System.out.println(s.factorial(5));
+        System.out.println(s.factorial(20
+
+
+            ));    
+    }
+}
