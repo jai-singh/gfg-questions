@@ -1,0 +1,1 @@
+# Question link => https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1#
