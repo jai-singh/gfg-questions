@@ -1,0 +1,1 @@
+# Question link => https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1#

@@ -12,8 +12,10 @@ class Solution
         int middle = (int)Math.ceil(count / 2.0);
         int i = 0;
         currentNode = head;
+        System.out.println(currentNode.data);
         while (i < middle) {
             currentNode = currentNode.next;
+            System.out.println(currentNode.data);
             i++;
         }
         return currentNode.data;
