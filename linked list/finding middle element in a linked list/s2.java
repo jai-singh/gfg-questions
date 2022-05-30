@@ -13,6 +13,16 @@ class Solution
     }
 }
 
+class Node {
+    int data;
+    Node next;
+
+    public Node(int d) {
+        this.data = d;
+        this.next = null;
+    }
+}
+
 public class s2 {
     public static void insertElement(Node head, int ele) {
         if (head == null) {
